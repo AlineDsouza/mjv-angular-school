@@ -2,6 +2,11 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.0.
 
+Exercício 1) Crie um projeto utilizando o cli do angular e que utiliza o padrão SCSS para estilização.
+
+Exercício 2) No arquivo app.component.html coloque um texto do lorem ipsum: https://www.lipsum.com/
+
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
