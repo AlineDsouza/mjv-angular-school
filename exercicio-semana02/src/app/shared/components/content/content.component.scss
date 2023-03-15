@@ -1,0 +1,40 @@
+ main{
+    max-width: 90%;
+    margin: auto;
+ }
+ .title{
+    text-align: center;
+    padding-top: 2rem;
+    p{
+        padding: 1rem 0;
+        max-width: 100%;
+    }
+ }
+ .photo{
+    ul{
+        list-style: none;
+        display: flex;
+       justify-content:space-around;
+        li{
+            margin: 1rem;
+            padding: 3rem;
+            border-radius: 2rem;
+            background-color: rgb(117, 213, 149);
+        }
+    }
+ }
+ .wrap{
+    display: flex;
+    flex-direction: column;
+
+    article{
+        padding: 1rem 0;
+        h2{
+            padding: 0.5rem 0;
+        }
+    }
+ }
+.photo ul li:hover{
+    background:rgb(70, 175, 72) ;
+   
+}
