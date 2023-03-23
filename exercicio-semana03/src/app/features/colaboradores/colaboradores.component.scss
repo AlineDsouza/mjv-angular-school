@@ -1,0 +1,29 @@
+main{
+    max-width: 90%;
+    margin: auto;
+}
+h1{
+    text-align: center;
+    padding-top: 1rem;
+}
+section{
+    margin: auto;    
+    max-width: 70%; 
+    padding: 2rem;
+    div{
+        margin-bottom: 1rem;
+        align-self: center;
+        border-radius: 1rem;
+        background-color: rgb(170, 197, 127);
+        padding: 0.9rem;
+    }   
+}
+.p01{
+    background-color:rgb(37, 52, 31);
+    color: white;
+    margin: auto;
+    padding: 0.3rem;
+    text-align: center;
+    border-radius: 1rem;  
+}
+
