@@ -1,0 +1,17 @@
+ nav{
+    margin: auto;
+    background-color: rgb(170, 197, 127);
+    display: flex;
+    justify-content: space-around;
+    max-width: 90%;
+}
+
+ul{
+   list-style: none;
+   display: flex;
+   align-items: center;
+   li{
+       padding: 0.2rem 0.5rem;
+       border-radius: 0.5rem;
+   }
+}
