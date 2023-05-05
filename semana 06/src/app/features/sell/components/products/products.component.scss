@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+    h1{
+    text-align: center;
+    margin: 3rem 1rem;
+    color: rgb(71, 7, 74);
+    font-size: 2.6rem;
+}
+
+.container{
+    height: 70vh;
+    width: 100%;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+    color: rgb(45, 6, 73);
+}
+.card-produto{
+    width: 290px;
+    height: 410px;
+    margin: 25px;
+    border-radius: 20px;
+    padding: 25px 20px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.179);
+    background-color: rgba(238, 238, 238, 0.555);
+
+}
+.details{
+    padding: 10px 2px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(106, 16, 133);
+    border-radius: 5px;
+
+
+}
+
+
+.em-estoque {
+    color: green;
+}
+
+.falta-estoque {
+    color: red;
+}
+.details{
+    margin-top: 5px;
+    width: 100%;
+}
