@@ -1,0 +1,59 @@
+
+
+
+header{
+   width: 100%;
+   height: 100vh;
+   background: url(https://images.pexels.com/photos/14840821/pexels-photo-14840821.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+   background-size: cover;
+   font-family: sans-serif;
+  
+}
+nav{
+    width: 100%;
+    height: 100px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.logo{
+    font-size: 2.5rem;
+    color: rgb(238, 109, 3);
+
+}
+.menu a{
+    text-decoration: none;
+    color: rgb(61, 61, 61);
+    padding: 10px 20px;
+    font-size:20px;
+}
+.register a{
+    text-decoration: none;
+    color: rgb(61, 61, 61);
+    padding: 10px 20px;
+    font-size:20px;
+    background-color: rgba(238, 109, 3, 0.534) ;
+    border-radius: 5px;
+}
+.text{
+display: block;
+top:50%;
+left: 50%;
+max-width: 650px;
+text-align: center;
+align-items: center;
+color: rgb(244, 218, 190);
+margin: auto;
+padding-top: 200px;
+}
+h2{
+    font-size: 2em;
+    padding-bottom: 1rem;
+}
+.text a {
+    text-decoration: none;
+    background-color: rgba(238, 109, 3, 0.646) ;
+    padding: 10px 20px;
+    color: white;
+}
+//linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.1))
